@@ -2,4 +2,11 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    background: linear-gradient(90deg, rgba(1,49,122,1) 28%, rgba(79,194,247,1) 100%);
+}
+
+h1 {
+    font-family: "Copperplate", fantasy;
+    color: rgba(39, 245, 228, 0.8);
+    font-weight: 400;
 }
